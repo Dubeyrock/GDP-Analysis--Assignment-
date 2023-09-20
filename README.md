@@ -8,3 +8,4 @@ Gross Domestic Product (GDP) is a measure of the size and health of an economy. 
 
 ![newplot (2)](https://github.com/Dubeyrock/GDP-Analysis--Assignment-/assets/96882359/c8a0adeb-a8b8-45ad-a4d3-453ad49db764)
 
+![newplot (2)](https://github.com/Dubeyrock/GDP-Analysis--Assignment-/assets/96882359/01c03434-1a19-4345-a01f-c25e99fd13dc)
